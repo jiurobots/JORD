@@ -28,7 +28,8 @@ Simultaneous localization and mapping (SLAM) is a crucial element of autonomous 
 GPS  | NovAtel Npos220s | 10 | Dual Antenna
 
  <img src="https://github.com/jiurobots/JORD/blob/main/img/sensors.jpg" width="800" />
- 
+
+ ## Recording Collection
 <img src="https://github.com/jiurobots/JORD/blob/main/jord_gif/5.gif" width="400" />
 
 
