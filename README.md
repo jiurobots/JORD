@@ -28,10 +28,9 @@ GPS  | NovAtel Npos220s | 10 | Dual Antenna
 
 
 ### Dataset Description  
- Sequence  | Path Length  | Frame | Avg Speed | Revisits/Total | Initial Frames | Loop Frames | Non-same Direction | Revisits (ratio) | Description
+ Sequence  | Path Length(m)  | Frame | Avg Speed(m/s) | Revisits/Total | Initial Frames | Loop Frames | Non-same Direction | Revisits (ratio) | Description
  ---- | ----- | ------  | ------  | ------  | ------  | ------  | ------  | ------  | ------  
- 单元格内容  | 单元格内容 | 单元格内容 
- 单元格内容  | 单元格内容 | 单元格内容  
+ JORD01  | 374.4 | 3508 | 0.99 | 1018/3508 | 798~1868,534~683 | 2168~3080,3139~3243 | Y(%89,913/1018) | Dense forest,\\Narrow and rough path 
 
 
 ### Dataset Download  
