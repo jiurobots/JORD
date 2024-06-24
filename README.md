@@ -30,14 +30,11 @@ GPS  | NovAtel Npos220s | 10 | Dual Antenna
 
   <img src="https://github.com/jiurobots/JORD/blob/main/img/sensors.jpg" width="600" />
  
-### Dataset Description  
+### Dataset Download  
 
- Sequence  | Path Length | Frame | Avg Speed | Revisits/Total | Initial Frames | Loop Frames | Non-same Direction | Revisits (ratio) | description
- ---- | ----- | ------  | ------  | ------ | ------ | ------ | ------ | ------ | ------ 
- Mechanical LiDAR  | Velodyne VLP-16 | 10 | 16 Channels
- Solid-state LiDAR  | Livox HAP | 10  | 120×25
- IMU  | EG320N | 125  | 6DoF
-GPS  | NovAtel Npos220s | 10 | Dual Antenna
+
+
+### Dataset Description  
 
 #### 四级标题  
 ##### 五级标题  
