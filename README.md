@@ -28,7 +28,7 @@ GPS  | NovAtel Npos220s | 10 | Dual Antenna
   <img src="https://github.com/jiurobots/JORD/blob/main/img/sensors.jpg" width="800" />
  
 
-
+https://github.com/jiurobots/JORD/blob/main/jord_gif/jord.mp4
 
 
 ### Dataset Description  
