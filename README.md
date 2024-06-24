@@ -10,6 +10,16 @@
 ## Introduction
 Simultaneous localization and mapping (SLAM) is a crucial element of autonomous driving technology. Presently, many SLAM methodologies based on light detection and ranging (LiDAR-based) are tailored for structured road environments. The highly irregular and unpredictable nature of off-road environments presents additional challenges for autonomous driving technology, but this environment is not sufficiently represented in the currently available datasets. To address this gap, we introduce the jlurobot off-road dataset (JORD), the first LiDAR-based SLAM dataset specifically designed for off-road environments. This dataset aims to advance research in autonomous driving technology under unstructured road conditions. Furthermore, we propose a novel two-stage loop closure detection (LCD) framework for dense forest off-road scenarios within the JORD. In the initial coarse matching stage, we extract tree trunk outlines via LiDAR point cloud segmentation and determine the centroid positions of the tree trunks. Subsequently, we create Delaunay triangle descriptor (DTD) and employ triangular graph matching to identify the candidate frame set. During the fine matching stage, we extract the maximum transformation scale information of the tree trunks and construct a maximum singular value descriptor (MSVD). Finally, we compute the similarity using the correlation coefficient. This framework not only provides guidance for research methodologies utilizing the JORD, but also represents a preliminary exploration into the application of graph techniques in LCD tasks. Extensive experiments validate the dataset's utility and the efficacy of our proposed method. 
 ![JORD](https://github.com/jiurobots/JORD/blob/main/jord_gif/1.gif)
+
+<p align="center">
+  <img src="https://github.com/jiurobots/JORD/blob/main/jord_gif/1.gif" width="300" />
+  <img src="https://github.com/jiurobots/JORD/blob/main/jord_gif/2.gif" width="300" />
+ <img src="https://github.com/jiurobots/JORD/blob/main/jord_gif/3.gif" width="300" />
+ <img src="https://github.com/jiurobots/JORD/blob/main/jord_gif/4.gif" width="300" />
+</p>
+
+
+
 ##Recording Platform
 
 ### 三级标题  
