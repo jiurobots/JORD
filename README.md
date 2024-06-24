@@ -10,6 +10,8 @@ Simultaneous localization and mapping (SLAM) is a crucial element of autonomous 
 <p align="center">
   <img src="https://github.com/jiurobots/JORD/blob/main/jord_gif/1.gif" width="200" />
   <img src="https://github.com/jiurobots/JORD/blob/main/jord_gif/2.gif" width="200" />
+  <img src=" https://github.com/jiurobots/JORD/blob/main/jord_gif/5.gif" width="200" />
+
   <img src="https://github.com/jiurobots/JORD/blob/main/jord_gif/3.gif" width="200" />
   <img src="https://github.com/jiurobots/JORD/blob/main/jord_gif/4.gif" width="200" />
 </p>
