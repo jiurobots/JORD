@@ -17,7 +17,7 @@ Simultaneous localization and mapping (SLAM) is a crucial element of autonomous 
   <img src="https://github.com/jiurobots/JORD/blob/main/jord_gif/4.gif" width="200" />
 </p>
 
-![图片名称](https://github.com/jiurobots/JORD/blob/main/img/sensors.jpg)  
+
 
 ## Recording Platform
 
@@ -27,6 +27,8 @@ Simultaneous localization and mapping (SLAM) is a crucial element of autonomous 
  Solid-state LiDAR  | Livox HAP | 10  | 120×25
  IMU  | EG320N | 125  | 6DoF
 GPS  | NovAtel Npos220s | 10 | Dual Antenna
+
+  <img src="https://github.com/jiurobots/JORD/blob/main/img/sensors.jpg" width="600" />
  
 ### 三级标题  
 #### 四级标题  
