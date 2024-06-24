@@ -11,8 +11,7 @@ Simultaneous localization and mapping (SLAM) is a crucial element of autonomous 
   <img src="https://github.com/jiurobots/JORD/blob/main/jord_gif/1.gif" width="200" />
   <img src="https://github.com/jiurobots/JORD/blob/main/jord_gif/2.gif" width="200" />
 
-  <img src="https://github.com/jiurobots/JORD/blob/main/jord_gif/5.gif" width="200" />
-
+  
   <img src="https://github.com/jiurobots/JORD/blob/main/jord_gif/3.gif" width="200" />
   <img src="https://github.com/jiurobots/JORD/blob/main/jord_gif/4.gif" width="200" />
 </p>
@@ -30,6 +29,7 @@ GPS  | NovAtel Npos220s | 10 | Dual Antenna
 
  <img src="https://github.com/jiurobots/JORD/blob/main/img/sensors.jpg" width="800" />
  
+<img src="https://github.com/jiurobots/JORD/blob/main/jord_gif/5.gif" width="400" />
 
 
 ### Dataset Description  
