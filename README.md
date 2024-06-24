@@ -46,6 +46,7 @@ GPS  | NovAtel Npos220s | 10 | Dual Antenna
  JORD08  | 707.13 | 5693 | N | N | N | N | N | 0% |Rugged mountain path, Uphill, Sparse forest 
 ### Dataset Download  
 The JORD can be download as follows:
+<p>
 链接: https://pan.baidu.com/s/1gr-3rPIEXNY0aFRnyaf1EQ?pwd=npc2 提取码: npc2 
 ### Folder Structure
 
