@@ -20,8 +20,8 @@ Simultaneous localization and mapping (SLAM) is a crucial element of autonomous 
 
 ## Recording Platform
 
- Sensor  | Model  | Rate | Specifications
- ---- | ----- | ------  
+ Sensor  | Model  | Rate | Specifications 
+ ---- | ----- | ------  | ------
  单元格内容  | 单元格内容 | 单元格内容 
  单元格内容  | 单元格内容 | 单元格内容  
  
