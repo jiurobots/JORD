@@ -21,15 +21,20 @@ Simultaneous localization and mapping (SLAM) is a crucial element of autonomous 
  IMU  | EG320N | 125  | 6DoF
 GPS  | NovAtel Npos220s | 10 | Dual Antenna
 
-  <img src="https://github.com/jiurobots/JORD/blob/main/img/sensors.jpg" width="600" />
+  <img src="https://github.com/jiurobots/JORD/blob/main/img/sensors.jpg" width="800" />
  
-### Dataset Download  
+
 
 
 
 ### Dataset Description  
+ Sequence  | Path Length  | Frame | Avg Speed | Revisits/Total | Initial Frames | Loop Frames | Non-same Direction | Revisits (ratio) | Description
+ ---- | ----- | ------  | ------  | ------  | ------  | ------  | ------  | ------  | ------  
+ 单元格内容  | 单元格内容 | 单元格内容 
+ 单元格内容  | 单元格内容 | 单元格内容  
 
 
+### Dataset Download  
 
 #### 四级标题  
 ##### 五级标题  
