@@ -31,7 +31,6 @@ GPS  | NovAtel Npos220s | 10 | Dual Antenna
  
 
 
-
 ### Dataset Description  
  Sequence  | Path Length(m)  | Frame | Avg Speed(m/s) | Revisits/Total | Initial Frames | Loop Frames | Non-same Direction | Revisits (ratio) | Description
  ---- | ----- | ------  | ------  | ------  | ------  | ------  | ------  | ------  | ------  
@@ -48,7 +47,7 @@ The JORD can be download as follows:
 链接: https://pan.baidu.com/s/1gr-3rPIEXNY0aFRnyaf1EQ?pwd=npc2 提取码: npc2 
 ### Folder Structure
 
-<img src="https://github.com/jiurobots/JORD/blob/main/img/FileTree.jpg" width="150"/>
+
 
 ### License 
 All datasets and code on this page are copyright by us and published under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License.
