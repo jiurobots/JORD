@@ -22,8 +22,10 @@ Simultaneous localization and mapping (SLAM) is a crucial element of autonomous 
 
  Sensor  | Model  | Rate | Specifications 
  ---- | ----- | ------  | ------
- 单元格内容  | 单元格内容 | 单元格内容 
- 单元格内容  | 单元格内容 | 单元格内容  
+ Mechanical LiDAR  | Velodyne VLP-16 | 10 | 16 Channels
+ Solid-state LiDAR  | Livox HAP | 10  | 120×25
+ IMU  | EG320N | 125  | 6DoF
+GPS  | NovAtel Npos220s | 10 | Dual Antenna
  
 ### 三级标题  
 #### 四级标题  
