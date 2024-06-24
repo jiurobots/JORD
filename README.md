@@ -48,6 +48,7 @@ GPS  | NovAtel Npos220s | 10 | Dual Antenna
 The JORD can be download as follows:
 <p>
 链接: https://pan.baidu.com/s/1gr-3rPIEXNY0aFRnyaf1EQ?pwd=npc2 提取码: npc2 
+ 
 ### Folder Structure
 
 <img src="https://github.com/jiurobots/JORD/blob/main/img/FileTree.jpg" width="200" />
