@@ -1,11 +1,4 @@
-一、标题写法：
-第一种方法：
-1、在文本下面加上 等于号 = ，那么上方的文本就变成了大标题。等于号的个数无限制，但一定要大于0个哦。。
-2、在文本下面加上 下划线 - ，那么上方的文本就变成了中标题，同样的 下划线个数无限制。
-3、要想输入=号，上面有文本而不让其转化为大标题，则需要在两者之间加一个空行。
-另一种方法：（推荐这种方法；注意⚠️中间需要有一个空格）
-关于标题还有等级表示法，分为六个等级，显示的文本大小依次减小。不同等级之间是以井号  #  的个数来标识的。一级标题有一个 #，二级标题有两个# ，以此类推。
-例如：
+
 # Off-Road LiDAR-Based SLAM: Dataset and Loop Closure Detection Framework
 ## Introduction
 Simultaneous localization and mapping (SLAM) is a crucial element of autonomous driving technology. Presently, many SLAM methodologies based on light detection and ranging (LiDAR-based) are tailored for structured road environments. The highly irregular and unpredictable nature of off-road environments presents additional challenges for autonomous driving technology, but this environment is not sufficiently represented in the currently available datasets. To address this gap, we introduce the jlurobot off-road dataset (JORD), the first LiDAR-based SLAM dataset specifically designed for off-road environments. This dataset aims to advance research in autonomous driving technology under unstructured road conditions. Furthermore, we propose a novel two-stage loop closure detection (LCD) framework for dense forest off-road scenarios within the JORD. In the initial coarse matching stage, we extract tree trunk outlines via LiDAR point cloud segmentation and determine the centroid positions of the tree trunks. Subsequently, we create Delaunay triangle descriptor (DTD) and employ triangular graph matching to identify the candidate frame set. During the fine matching stage, we extract the maximum transformation scale information of the tree trunks and construct a maximum singular value descriptor (MSVD). Finally, we compute the similarity using the correlation coefficient. This framework not only provides guidance for research methodologies utilizing the JORD, but also represents a preliminary exploration into the application of graph techniques in LCD tasks. Extensive experiments validate the dataset's utility and the efficacy of our proposed method. 
@@ -35,6 +28,8 @@ GPS  | NovAtel Npos220s | 10 | Dual Antenna
 
 
 ### Dataset Description  
+
+
 
 #### 四级标题  
 ##### 五级标题  
