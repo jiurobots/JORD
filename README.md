@@ -47,7 +47,7 @@ All datasets and code on this page are copyright by us and published under the C
 
 ### Dataset Download  
 
-<img src="https://github.com/jiurobots/JORD/blob/main/img/FileTree.jpg" />
+<img src="https://github.com/jiurobots/JORD/blob/main/img/FileTree.jpg" width="150"/>
 
 ### License 
 All datasets and code on this page are copyright by us and published under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License.
