@@ -39,8 +39,11 @@ GPS  | NovAtel Npos220s | 10 | Dual Antenna
  JORD07  | 857.48 | 6621 | N | N | N | N | N | 0% |Extremely narrow path, Dense forests 
  JORD08  | 707.13 | 5693 | N | N | N | N | N | 0% |Rugged mountain path, Uphill, Sparse forest 
 ### Dataset Download  
+All datasets and code on this page are copyright by us and published under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License.
+### License 
+All datasets and code on this page are copyright by us and published under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License.
 
-#### 四级标题  
+
 ##### 五级标题  
 ###### 六级标题 
 二、编辑基本语法  
