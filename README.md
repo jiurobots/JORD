@@ -1,5 +1,5 @@
 
-# JORD: A Benchmark Dataset for Off-Road LiDAR Place Recognition and SLAM
+# JORD
 
 
  <img src="https://img520.com/HFd7BP.jpg" width="1000" />
