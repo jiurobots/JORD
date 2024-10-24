@@ -30,17 +30,6 @@ GPS  | NovAtel Npos220s | 10 | Dual Antenna
 <img src="https://github.com/zhouwei1995/Gift/blob/main/5.gif" width="400" />
 
 
-## Dataset Description  
- Sequence  | Path Length(m)  | Frame | Avg Speed(m/s) | Revisits/Total | Initial Frames | Loop Frames | Non-same Direction | Revisits (ratio) | Description
- ---- | ----- | ------  | ------  | ------  | ------  | ------  | ------  | ------  | ------  
- JORD01  | 374.4 | 3508 | 0.99 | 1018/3508 | 798-1868,534-683 | 2168-3080,3139-3243 | Y | (89%,913/1018) |Dense forest 
- JORD02  | 872.3 | 8216 | 1.0 | 3360/8216 | 2634-2796,4152-7329 | 2934-3096,233-3914 | Y | (86%,2897/3360) |Rambling bush
- JORD03  | 654.2 | 5444 | 1.14 | 739/5444 | 0-960 | 4706-5444 | Y | (100%,739/739) |Muddy and rugged mountain paths
- JORD04  |  592.5 | 4120 |1.34 | 762/4210 | 1175-1899,869-954 | 2119-2775,3014-3118 | Y | (89%,913/1018) |Straight sloped mountain road
- JORD05  | 719.29 | 5157 | 1.30 | 77/5157 | 2365-2443 |  3343-3420 | Y | (100%,77/77) |Steep downhill section 
- JORD06  | 1291.45 | 10388 | N | N | N | N |N | 0% |Long and curved mountain road
- JORD07  | 857.48 | 6621 | N | N | N | N | N | 0% |Muddy mountain road 
- JORD08  | 707.13 | 5693 | N | N | N | N | N | 0% |Rugged uphill section 
 ## Dataset Download  
 The JORD can be download as follows:
 <p>
